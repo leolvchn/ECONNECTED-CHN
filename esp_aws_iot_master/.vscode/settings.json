@@ -1,0 +1,6 @@
+{
+    "idf.gitPath": "C:\\esp\\tools\\.espressif\\tools\\idf-git\\cmd\\git.exe",
+    "files.associations": {
+        "aws_iot_mqtt_client_interface.h": "c"
+    }
+}

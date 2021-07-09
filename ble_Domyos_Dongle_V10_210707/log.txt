@@ -1,0 +1,7 @@
+﻿ble_ant_Domyos_V10_200828:正式调通，ANT，能扫描到所有设备，并选择信号强度最大的传输心率给电子表，同时支持迪卡侬APP透传 
+ble_ant_Domyos_V10_200908：添加了FTMS服务及相关的与电子表的通讯
+ble_ant_Domyos_V10_200912：修复跑步机模式下扬升数据错误导致一直发扬升命令而无法获取数据的bug
+ble_ant_Domyos_V10_200922：修改了Econnect连接状态下无法获取蓝牙心率问题
+ble_ant_Domyos_V10_200923：FTMS新增椭圆机和划船器
+ble_ant_Domyos_V10_200924：串口取反（原因：甘工那边底板串口是反的）
+ble_ant_Domyos_V10_201015(29 28)：WIFI一体模块上串口是反的
